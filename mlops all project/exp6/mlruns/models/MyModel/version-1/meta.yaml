@@ -1,0 +1,16 @@
+creation_timestamp: 1776395749886
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1776395749886
+model_id: m-e56327ca702140c3a35dffaeb29fa7f6
+name: MyModel
+run_id: 4a4f43c8460e452fa2484f017c84b613
+run_link: ''
+source: models:/m-e56327ca702140c3a35dffaeb29fa7f6
+status: READY
+status_message: null
+storage_location: file:C:/Users/RAJ PARMAR/mlops all project/exp6/mlruns/0/models/m-e56327ca702140c3a35dffaeb29fa7f6/artifacts
+user_id: null
+version: 1
+workspace: default

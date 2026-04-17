@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/RAJ PARMAR/mlops all project/exp6/mlruns/0/ab5f90070a3e49d69aded637922d0c7f/artifacts
+end_time: 1776403545989
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab5f90070a3e49d69aded637922d0c7f
+run_name: lyrical-bee-1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776403545886
+status: 3
+tags: []
+user_id: RAJ PARMAR

@@ -1,0 +1,10 @@
+artifact_location: file:c:/Users/RAJ PARMAR/mlops all project/mlruns/0/models/m-0514cfac8cc24751a92fee89e8c3b685/artifacts
+creation_timestamp: 1776373714200
+experiment_id: '0'
+last_updated_timestamp: 1776373730245
+model_id: m-0514cfac8cc24751a92fee89e8c3b685
+model_type: null
+name: random_forest_model
+source_run_id: null
+status: 2
+status_message: null

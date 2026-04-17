@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/RAJ PARMAR/mlops all project/exp6/mlruns/0/499d8f0c76ee4677898595c8e0d24175/artifacts
+end_time: 1776403019816
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 499d8f0c76ee4677898595c8e0d24175
+run_name: clean-goose-323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776403019704
+status: 3
+tags: []
+user_id: RAJ PARMAR

@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/RAJ PARMAR/mlops all project/exp6/mlruns/0/91d51e0c857246beadd6c46c622d14e7/artifacts
+end_time: 1776404100312
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91d51e0c857246beadd6c46c622d14e7
+run_name: bright-stag-963
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776404100200
+status: 3
+tags: []
+user_id: RAJ PARMAR

@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/RAJ PARMAR/mlops all project/exp6/mlruns/0/4a4f43c8460e452fa2484f017c84b613/artifacts
+end_time: 1776395750051
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a4f43c8460e452fa2484f017c84b613
+run_name: carefree-grub-406
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776395736392
+status: 3
+tags: []
+user_id: RAJ PARMAR

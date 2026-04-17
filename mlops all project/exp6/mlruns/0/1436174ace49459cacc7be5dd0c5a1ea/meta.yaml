@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/RAJ PARMAR/mlops all project/exp6/mlruns/0/1436174ace49459cacc7be5dd0c5a1ea/artifacts
+end_time: 1776403874111
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1436174ace49459cacc7be5dd0c5a1ea
+run_name: defiant-hog-138
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776403874001
+status: 3
+tags: []
+user_id: RAJ PARMAR

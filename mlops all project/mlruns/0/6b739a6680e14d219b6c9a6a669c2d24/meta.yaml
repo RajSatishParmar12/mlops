@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/RAJ PARMAR/mlops all project/mlruns/0/6b739a6680e14d219b6c9a6a669c2d24/artifacts
+end_time: 1776373401340
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b739a6680e14d219b6c9a6a669c2d24
+run_name: rare-crab-4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776373401221
+status: 3
+tags: []
+user_id: RAJ PARMAR

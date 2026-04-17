@@ -1,0 +1,10 @@
+artifact_location: file:C:/Users/RAJ PARMAR/mlops all project/exp6/mlruns/0/models/m-e56327ca702140c3a35dffaeb29fa7f6/artifacts
+creation_timestamp: 1776395737165
+experiment_id: '0'
+last_updated_timestamp: 1776395749708
+model_id: m-e56327ca702140c3a35dffaeb29fa7f6
+model_type: ''
+name: rf_model
+source_run_id: 4a4f43c8460e452fa2484f017c84b613
+status: 2
+status_message: null
